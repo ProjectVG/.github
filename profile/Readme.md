@@ -1,3 +1,8 @@
+<p align="center">
+ <img width="635" height="193" alt="ProjectVG-Logo2" src="https://github.com/user-attachments/assets/92978e9b-8ec5-4797-b83c-a288c0d80f84" />
+</p>
+
+
 
  <h1 align="center">언제나 내 곁에, 나의 AI 파트너 ProjectVG</h1>
 
