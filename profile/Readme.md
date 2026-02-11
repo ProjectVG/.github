@@ -1,6 +1,3 @@
-<p align="center">
- <img width="1137" height="556" alt="ProjectVG 매인 로고2" src="https://github.com/user-attachments/assets/4bf20d5f-ee1c-4565-843d-b5aac4daa9f3" />
-</p>
 
 
 
